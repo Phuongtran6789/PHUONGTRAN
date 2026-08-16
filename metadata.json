@@ -1,0 +1,6 @@
+{
+  "name": "GIA SƯ TIẾNG VIỆT LỚP 4",
+  "description": "Ứng dụng gia sư thông minh ôn tập môn Tiếng Việt Lớp 4 (Tập 2 - Bộ Kết nối tri thức với cuộc sống), phát triển bởi tác giả Trần Thị Phượng - AI. Hỗ trợ chọn bài học, mức độ nhận biết - thông hiểu - vận dụng, làm bài thi và giải thích chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
